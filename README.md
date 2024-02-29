@@ -12,7 +12,10 @@
         <br>
         <strong>Tags:</strong> Data Science, Machine Learning, Dimensionality Reduction
         <br>
-        <strong>Language:</strong> Python
+        <strong>Languages:</strong>
+        <a href="https://github.com/zenklinov/PCA"><img src="https://img.shields.io/github/languages/count/zenklinov/PCA" alt="Languages Used"></a>
+        &nbsp;
+        <a href="https://github.com/zenklinov/PCA"><img src="https://img.shields.io/github/languages/top/zenklinov/PCA" alt="Top Language"></a>
       </p>
     </td>
     <td style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
@@ -22,7 +25,10 @@
         <br>
         <strong>Tags:</strong> Data Science, API, Climate Data
         <br>
-        <strong>Language:</strong> Python
+        <strong>Languages:</strong>
+        <a href="https://github.com/zenklinov/nasapower"><img src="https://img.shields.io/github/languages/count/zenklinov/nasapower" alt="Languages Used"></a>
+        &nbsp;
+        <a href="https://github.com/zenklinov/nasapower"><img src="https://img.shields.io/github/languages/top/zenklinov/nasapower" alt="Top Language"></a>
       </p>
     </td>
   </tr>
@@ -34,7 +40,10 @@
         <br>
         <strong>Tags:</strong> Music, MIDI, Digital Signal Processing
         <br>
-        <strong>Language:</strong> Python
+        <strong>Languages:</strong>
+        <a href="https://github.com/zenklinov/MIDI"><img src="https://img.shields.io/github/languages/count/zenklinov/MIDI" alt="Languages Used"></a>
+        &nbsp;
+        <a href="https://github.com/zenklinov/MIDI"><img src="https://img.shields.io/github/languages/top/zenklinov/MIDI" alt="Top Language"></a>
       </p>
     </td>
     <td style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
@@ -44,7 +53,10 @@
         <br>
         <strong>Tags:</strong> Game Development, Artificial Intelligence
         <br>
-        <strong>Language:</strong> Python
+        <strong>Languages:</strong>
+        <a href="https://github.com/zenklinov/Tic-Tac-Toe"><img src="https://img.shields.io/github/languages/count/zenklinov/Tic-Tac-Toe" alt="Languages Used"></a>
+        &nbsp;
+        <a href="https://github.com/zenklinov/Tic-Tac-Toe"><img src="https://img.shields.io/github/languages/top/zenklinov/Tic-Tac-Toe" alt="Top Language"></a>
       </p>
     </td>
   </tr>
