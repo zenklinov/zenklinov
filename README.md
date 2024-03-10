@@ -7,6 +7,15 @@
   <tr>
     <td style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
       <h3 align="center">📊 Statistics</h3>
+        <p>
+        <a href="https://github.com/zenklinov/Metrics-Distance-TensorFlow"><strong>Metrics-Distance-TensorFlow</strong></a>: Python scripts to calculate various distance metrics between rows of data in a dataset using TensorFlow.
+        <br>
+        <strong>Tags:</strong> Data Science, Machine Learning, TensorFlow
+        <br>
+        <a href="https://github.com/zenklinov/Metrics-Distance-TensorFlow"><img src="https://img.shields.io/github/languages/count/zenklinov/Metrics-Distance-TensorFlow" alt="Languages Used"></a>
+        &nbsp;
+        <a href="https://github.com/zenklinov/Metrics-Distance-TensorFlow"><img src="https://img.shields.io/github/languages/top/zenklinov/Metrics-Distance-TensorFlow" alt="Top Language"></a>
+      </p>
       <p>
         <a href="https://github.com/zenklinov/PCA"><strong>PCA</strong></a>: Principal Component Analysis implementation for data dimensionality reduction.
         <br>
