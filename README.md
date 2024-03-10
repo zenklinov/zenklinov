@@ -35,7 +35,7 @@
         <br>
         <a href="https://github.com/zenklinov/nasapower"><img src="https://img.shields.io/github/languages/count/zenklinov/nasapower" alt="Languages Used"></a>
         &nbsp;
-        <a href="https://github.com/zenklinov/nasapower"><img src="https://img.shields.io/github/languages/top/zenklinov/nasapower" alt="Top Language"></a>
+        <a href="https://github.com/zenklinov/nasapower"><img src="https://img.shields.io/github/languages/top/zenklinov/nasapower?sort=r,python" alt="Language Used"></a>
       </p>
     </td>
   </tr>
