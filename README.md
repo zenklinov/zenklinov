@@ -6,6 +6,17 @@
 
   <tr>
     <td style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
+      <h3 align="center">📊 Statistics</h3>
+        <p>
+        <a href="https://github.com/zenklinov/Rainfall-Time-Series-Descriptive"><strong>Rainfall-Time-Series-Descriptive</strong></a>: Jupyter Notebook of Python scripts to visualize data using 2D Chart and Heatmap.
+        <br>
+        <strong>Tags:</strong> Data Science, Data Analyze
+        <br>
+        <a href="https://github.com/zenklinov/ Rainfall-Time-Series-Descriptive"><img src="https://img.shields.io/github/languages/count/zenklinov/Rainfall-Time-Series-Descriptive" alt="Languages Used"></a>
+        &nbsp;
+        <a href="https://github.com/zenklinov/Metrics-Distance-TensorFlow"><img src="https://img.shields.io/github/languages/top/zenklinov/Rainfall-Time-Series-Descriptive" alt="Top Language"></a>
+    </td>
+    <td style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
       <h3 align="center">📊 Machine Learning</h3>
         <p>
         <a href="https://github.com/zenklinov/Metrics-Distance-TensorFlow"><strong>Metrics-Distance-TensorFlow</strong></a>: Python scripts to calculate various distance metrics between rows of data in a dataset using TensorFlow.
