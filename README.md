@@ -17,7 +17,7 @@
         <a href="https://github.com/zenklinov/Metrics-Distance-TensorFlow"><img src="https://img.shields.io/github/languages/top/zenklinov/Rainfall-Time-Series-Descriptive" alt="Top Language"></a>
     </td>
     <td style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
-      <h3 align="center">📊 Machine Learning</h3>
+      <h3 align="center">🤖 Machine Learning</h3>
         <p>
         <a href="https://github.com/zenklinov/Metrics-Distance-TensorFlow"><strong>Metrics-Distance-TensorFlow</strong></a>: Python scripts to calculate various distance metrics between rows of data in a dataset using TensorFlow.
         <br>
@@ -38,7 +38,7 @@
       </p>
     </td>
     <td style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
-      <h3 align="center">📈 Getting Data</h3>
+      <h3 align="center">🗄️ Getting Data</h3>
       <p>
         <a href="https://github.com/zenklinov/nasapower"><strong>nasapower</strong></a>: Python client to access NASA POWER global solar and meteorological data.
         <br>
