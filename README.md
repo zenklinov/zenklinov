@@ -101,6 +101,4 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zenklinov&show_icons=true&locale=en&layout=compact" alt="zenklinov" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zenklinov&show_icons=true&locale=en" alt="zenklinov" /></p>
