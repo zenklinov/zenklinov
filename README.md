@@ -3,10 +3,10 @@
 
 <h3 align="left">My Repositories:</h3>
 
-<table>
+
   <tr>
     <td style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
-      <h3 align="center">📊 Statistics</h3>
+      <h3 align="center">📊 Machine Learning</h3>
         <p>
         <a href="https://github.com/zenklinov/Metrics-Distance-TensorFlow"><strong>Metrics-Distance-TensorFlow</strong></a>: Python scripts to calculate various distance metrics between rows of data in a dataset using TensorFlow.
         <br>
@@ -65,7 +65,7 @@
       </p>
     </td>
   </tr>
-</table>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zenklinov&label=Profile%20views&color=0e75b6&style=flat" alt="zenklinov" /> </p>
 
