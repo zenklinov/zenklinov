@@ -10,10 +10,7 @@
         <p>
         <a href="https://github.com/zenklinov/Rainfall-Time-Series-Descriptive"><strong>Rainfall-Time-Series-Descriptive</strong></a>: Jupyter Notebook of Python scripts to visualize data using 2D Line Chart and Heatmap.
         <br>
-        <strong>Libraries:</strong> 
-<img src="https://img.icons8.com/color/16/000000/pandas.png"/> Pandas, 
-<img src="https://img.icons8.com/ios-filled/16/000000/geo-fence.png"/> Geopandas, 
-<img src="https://numpy.org/images/logos/numpy.svg" width="16" height="16"/> Numpy
+        <strong>Tech/Libraries:</strong> Pandas, Geopandas, Numpy
         <br>
         <strong>Tags:</strong> Data Science, Data Analyze, 2D Line Chart, Heatmap
         <br>
@@ -26,6 +23,8 @@
         <p>
         <a href="https://github.com/zenklinov/Metrics-Distance-TensorFlow"><strong>Metrics-Distance-TensorFlow</strong></a>: Python scripts to calculate various distance metrics between rows of data in a dataset using TensorFlow.
         <br>
+        <strong>Tech/Libraries:</strong> Pandas, Numpy, Tensorflow, Os, Pickle, Drive, FastDTW
+        <br>
         <strong>Tags:</strong> Data Science, Machine Learning, TensorFlow
         <br>
         <a href="https://github.com/zenklinov/Metrics-Distance-TensorFlow"><img src="https://img.shields.io/github/languages/count/zenklinov/Metrics-Distance-TensorFlow" alt="Languages Used"></a>
@@ -34,6 +33,8 @@
       </p>
       <p>
         <a href="https://github.com/zenklinov/PCA"><strong>PCA</strong></a>: Principal Component Analysis implementation for data dimensionality reduction.
+        <br>
+        <strong>Tech/Libraries:</strong> Performance Analytics, Factoextra
         <br>
         <strong>Tags:</strong> Data Science, Machine Learning, Dimensionality Reduction
         <br>
@@ -46,6 +47,8 @@
       <h3 align="center">🗄️ Getting Data</h3>
       <p>
         <a href="https://github.com/zenklinov/nasapower"><strong>nasapower</strong></a>: Python client to access NASA POWER global solar and meteorological data.
+        <br>
+        <strong>Tech/Libraries:</strong> Pandas, Geopandas, Matplotlib, nasapower
         <br>
         <strong>Tags:</strong> Data Science, API, Climate Data
         <br>
@@ -61,6 +64,8 @@
       <p>
         <a href="https://github.com/zenklinov/MIDI"><strong>MIDI</strong></a>: Python library for handling MIDI files and music processing.
         <br>
+        <strong>Tech/Libraries:</strong> MIDIutil
+        <br>
         <strong>Tags:</strong> Music, MIDI, Digital Signal Processing
         <br>
         <a href="https://github.com/zenklinov/MIDI"><img src="https://img.shields.io/github/languages/count/zenklinov/MIDI" alt="Languages Used"></a>
@@ -72,6 +77,8 @@
       <h3 align="center">🎮 Game</h3>
       <p>
         <a href="https://github.com/zenklinov/Tic-Tac-Toe"><strong>Tic-Tac-Toe</strong></a>: Classic Tic-Tac-Toe game with AI opponent using Minimax algorithm.
+        <br>
+        <strong>Tech/Libraries:</strong> TKinter
         <br>
         <strong>Tags:</strong> Game Development, Artificial Intelligence
         <br>
