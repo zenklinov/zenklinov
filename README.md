@@ -10,6 +10,8 @@
         <p>
         <a href="https://github.com/zenklinov/Rainfall-Time-Series-Descriptive"><strong>Rainfall-Time-Series-Descriptive</strong></a>: Jupyter Notebook of Python scripts to visualize data using 2D Line Chart and Heatmap.
         <br>
+        <strong>Libraries:</strong> Pandas,Geopandas,Numpy
+        <br>
         <strong>Tags:</strong> Data Science, Data Analyze, 2D Line Chart, Heatmap
         <br>
         <a href="https://github.com/zenklinov/ Rainfall-Time-Series-Descriptive"><img src="https://img.shields.io/github/languages/count/zenklinov/Rainfall-Time-Series-Descriptive" alt="Languages Used"></a>
