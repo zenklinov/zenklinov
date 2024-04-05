@@ -20,6 +20,18 @@
     </td>
     <td style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
       <h3 align="center">🤖 Machine Learning</h3>
+      <p>
+        <p>
+        <a href="https://github.com/zenklinov/Hotelling-T-Square"><strong>Hotelling-T-Square</strong></a>: This repository contains the implementation of a multivariate control chart with dimension reduction techniques, namely Factor Analysis of Mixed Data (FAMD) and Autoencoder. The control chart is designed for detecting network intrusions using network data traffic.
+        <br>
+        <strong>Tech/Libraries:</strong> Pandas, Numpy, Scikit-Learn
+        <br>
+        <strong>Tags:</strong> Data Science, Machine Learning, Multivariate Control Chart, Hotelling T-Square, Dimensionality Reduction
+        <br>
+        <a href="https://github.com/zenklinov/Hotelling-T-Square"><img src="https://img.shields.io/github/languages/count/zenklinov/Hotelling-T-Square" alt="Languages Used"></a>
+        &nbsp;
+        <a href="https://github.com/zenklinov/Hotelling-T-Square"><img src="https://img.shields.io/github/languages/top/zenklinov/Hotelling-T-Square" alt="Top Language"></a>
+      </p>
         <p>
         <a href="https://github.com/zenklinov/Metrics-Distance-TensorFlow"><strong>Metrics-Distance-TensorFlow</strong></a>: Python scripts to calculate various distance metrics between rows of data in a dataset using TensorFlow.
         <br>
