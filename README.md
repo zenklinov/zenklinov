@@ -16,10 +16,20 @@
         <br>
         <a href="https://github.com/zenklinov/ Rainfall-Time-Series-Descriptive"><img src="https://img.shields.io/github/languages/count/zenklinov/Rainfall-Time-Series-Descriptive" alt="Languages Used"></a>
         &nbsp;
-        <a href="https://github.com/zenklinov/Metrics-Distance-TensorFlow"><img src="https://img.shields.io/github/languages/top/zenklinov/Rainfall-Time-Series-Descriptive" alt="Top Language"></a>
+        <a href="https://github.com/zenklinov/Rainfall-Time-Series-Descriptive"><img src="https://img.shields.io/github/languages/top/zenklinov/Rainfall-Time-Series-Descriptive" alt="Top Language"></a>
     </td>
     <td style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
       <h3 align="center">🤖 Machine Learning</h3>
+        <p>
+        <a href="https://github.com/zenklinov/Clustering_K-Means_Metrics_PCA"><strong>Clustering_K-Means_Metrics_PCA</strong></a>: Explore K-Means clustering analysis with various distance metrics (Euclidean, Manhattan, Cosine) and PCA analysis on the Iris dataset. Investigate clustering quality and its relation to principal dimensions with clear visualizations and in-depth analysis.
+        <br>
+        <strong>Tech/Libraries:</strong> Matplotlib, Scikit-Learn
+        <br>
+        <strong>Tags:</strong> Data Science, Machine Learning, Cluster, K-Means, Dimensionality Reduction
+        <br>
+        <a href="https://github.com/zenklinov/Clustering_K-Means_Metrics_PCA"><img src="https://img.shields.io/github/languages/count/zenklinov/Clustering_K-Means_Metrics_PCA" alt="Languages Used"></a>
+        &nbsp;
+        <a href="https://github.com/zenklinov/Clustering_K-Means_Metrics_PCA"><img src="https://img.shields.io/github/languages/top/zenklinov/Clustering_K-Means_Metrics_PCA" alt="Top Language"></a>
       <p>
         <p>
         <a href="https://github.com/zenklinov/Hotelling-T-Square"><strong>Hotelling-T-Square</strong></a>: This repository contains the implementation of a multivariate control chart with dimension reduction techniques, namely Factor Analysis of Mixed Data (FAMD) and Autoencoder. The control chart is designed for detecting network intrusions using network data traffic.
