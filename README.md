@@ -32,6 +32,17 @@
         <a href="https://github.com/zenklinov/Clustering_K-Means_Metrics_PCA"><img src="https://img.shields.io/github/languages/top/zenklinov/Clustering_K-Means_Metrics_PCA" alt="Top Language"></a>
       <p>
         <p>
+        <a href="https://github.com/zenklinov/Deep-Learning-CNN-vs-RNN"><strong>Deep-Learning-CNN-vs-RNN</strong></a>: This repository contains a Jupyter Notebook that compares the performance of Convolutional Neural Network (CNN) and Recurrent Neural Network (RNN) architectures for image classification tasks using the Fashion MNIST dataset. The notebook explores the process of training CNN and RNN models.
+        <br>
+        <strong>Tech/Libraries:</strong> TensorFlow, Matplotlib
+        <br>
+        <strong>Tags:</strong> Data Science, Machine Learning, Deep Learning, CNN, RNN, Classification
+        <br>
+        <a href="https://github.com/zenklinov/Deep-Learning-CNN-vs-RNN"><img src="https://img.shields.io/github/languages/count/zenklinov/Deep-Learning-CNN-vs-RNN" alt="Languages Used"></a>
+        &nbsp;
+        <a href="https://github.com/zenklinov/Deep-Learning-CNN-vs-RNN"><img src="https://img.shields.io/github/languages/top/zenklinov/Deep-Learning-CNN-vs-RNN" alt="Top Language"></a>
+      <p>
+        <p>
         <a href="https://github.com/zenklinov/Hotelling-T-Square"><strong>Hotelling-T-Square</strong></a>: This repository contains the implementation of a multivariate control chart with dimension reduction techniques, namely Factor Analysis of Mixed Data (FAMD) and Autoencoder. The control chart is designed for detecting network intrusions using network data traffic.
         <br>
         <strong>Tech/Libraries:</strong> Pandas, Numpy, Scikit-Learn
