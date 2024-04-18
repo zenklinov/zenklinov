@@ -79,7 +79,7 @@
     <td style="padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
       <h3 align="center">🗄️ Getting Data</h3>
       <p>
-        <a href="https://github.com/zenklinov/nasapower"><strong>nasapower</strong></a>: Python client to access NASA POWER global solar and meteorological data.
+        <a href="https://github.com/zenklinov/nasapower"><strong>nasapower</strong></a>: Python client to access NASA POWER global solar and meteorological data. Getting Data NASA POWER, such as Precipitation in Regional by Single Point approach. Example Precipitation / Rainfall Data in East Java 2018-2022.
         <br>
         <strong>Tech/Libraries:</strong> Pandas, Geopandas, Matplotlib, nasapower
         <br>
