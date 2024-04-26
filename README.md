@@ -54,6 +54,17 @@
         <a href="https://github.com/zenklinov/Hotelling-T-Square"><img src="https://img.shields.io/github/languages/top/zenklinov/Hotelling-T-Square" alt="Top Language"></a>
       </p>
         <p>
+        <a href="https://github.com/zenklinov/IBM_Machine_Learning_Capstone"><strong>IBM_Machine_Learning_Capstone</strong></a>: This repository contains materials for the Machine Learning Capstone course offered by IBM. Build a course recommender system, Analyze course-related datasets, and Generate recommendation systems using techniques such as KNN, PCA, and non-negative matrix collaborative filtering.
+        <br>
+        <strong>Tech/Libraries:</strong> Pandas, Numpy, Tensorflow, Os, Pickle, Drive, FastDTW
+        <br>
+        <strong>Tags:</strong> Data Science, Machine Learning, Scikit-Learn, Matplotlib
+        <br>
+        <a href="https://github.com/zenklinov/IBM_Machine_Learning_Capstone"><img src="https://img.shields.io/github/languages/count/zenklinov/IBM_Machine_Learning_Capstone" alt="Languages Used"></a>
+        &nbsp;
+        <a href="https://github.com/zenklinov/IBM_Machine_Learning_Capstone"><img src="https://img.shields.io/github/languages/top/zenklinov/IBM_Machine_Learning_Capstone" alt="Top Language"></a>
+      </p>
+        <p>
         <a href="https://github.com/zenklinov/Metrics-Distance-TensorFlow"><strong>Metrics-Distance-TensorFlow</strong></a>: Python scripts to calculate various distance metrics between rows of data in a dataset using TensorFlow.
         <br>
         <strong>Tech/Libraries:</strong> Pandas, Numpy, Tensorflow, Os, Pickle, Drive, FastDTW
