@@ -89,7 +89,7 @@
       <p>
         <a href="https://github.com/zenklinov/regression_logistic_-_sentiment_analysis_movie_data"><strong>regression_logistic_-_sentiment_analysis_movie_data</strong></a>: Logistic Regression - Sentiment Analysis for Movie Data.
         <br>
-        <strong>Tech/Libraries:</strong> Scikit-Learn, Natural Languange Toolkit (NLTK)
+        <strong>Tech/Libraries:</strong> Scikit-Learn, Natural Languange Toolkit (NLTK), Pandas
         <br>
         <strong>Tags:</strong> Data Science, Machine Learning, Sentiment Analysis, Natural Language Processing (NLP)
         <br>
