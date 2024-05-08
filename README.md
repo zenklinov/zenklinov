@@ -87,7 +87,7 @@
         <a href="https://github.com/zenklinov/PCA"><img src="https://img.shields.io/github/languages/top/zenklinov/PCA" alt="Top Language"></a>
       </p>
       <p>
-        <a href="https://github.com/zenklinov/regression_logistic_-_sentiment_analysis_movie_data"><strong>regression_logistic_-_sentiment_analysis_movie_data</strong></a>: Logistic Regression - Sentiment Analysis for Movie Data.
+        <a href="https://github.com/zenklinov/regression_logistic_-_sentiment_analysis_movie_data"><strong>Regression_Logistic_-_Sentiment_Analysis_Movie_Data</strong></a>: Logistic Regression - Sentiment Analysis for Movie Data.
         <br>
         <strong>Tech/Libraries:</strong> Scikit-Learn, Natural Languange Toolkit (NLTK), Pandas
         <br>
