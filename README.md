@@ -87,6 +87,17 @@
         <a href="https://github.com/zenklinov/IBM_Machine_Learning_Capstone"><img src="https://img.shields.io/github/languages/top/zenklinov/IBM_Machine_Learning_Capstone" alt="Top Language"></a>
       </p>
         <p>
+        <a href="https://github.com/zenklinov/Image-recognition"><strong>Image-recognition</strong></a>: This project is a simple image classification application built using PyTorch and Streamlit. It utilizes the pre-trained ResNet50 model to classify images and provides input options via file upload, URL input, or URL copied from the clipboard.
+        <br>
+        <strong>Tech/Libraries:</strong> Torch, Torchvision, PyperClip, Streamlit
+        <br>
+        <strong>Tags:</strong> Data Science, Deep Learning, Image Classifier
+        <br>
+        <a href="https://github.com/zenklinov/Image-recognition"><img src="https://img.shields.io/github/languages/count/zenklinov/Image-recognition" alt="Languages Used"></a>
+        &nbsp;
+        <a href="https://github.com/zenklinov/Image-recognition"><img src="https://img.shields.io/github/languages/top/zenklinov/Image-recognition" alt="Top Language"></a>
+      </p>
+        <p>
         <a href="https://github.com/zenklinov/Introduction_to_Text_Analysis"><strong>Introduction_to_Text_Analysis</strong></a>: This repository contains materials and resources for learning Text Analysis. The included Jupyter Notebook demonstrates key concepts using TextBlob for sentiment analysis.
         <br>
         <strong>Tech/Libraries:</strong> NLTK, Textblob, Sastrawi
