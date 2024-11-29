@@ -180,6 +180,17 @@
         &nbsp;
         <a href="https://github.com/zenklinov/nasapower"><img src="https://img.shields.io/github/languages/top/zenklinov/nasapower?sort=r,python" alt="Language Used"></a>
       </p>
+      <p>
+        <a href="https://github.com/zenklinov/tweepy"><strong>tweepy</strong></a>: This Python script demonstrates how to scrape recent tweets from Twitter using the Tweepy library. The script searches for tweets containing the hashtag #pepguardiola, retrieves additional tweet metadata such as context annotations and creation time, and saves the results into an Excel file.
+        <br>
+        <strong>Tech/Libraries:</strong> Pandas, Tweepy
+        <br>
+        <strong>Tags:</strong> Data Science, API, Twitter or X
+        <br>
+        <a href="https://github.com/zenklinov/tweepy"><img src="https://img.shields.io/github/languages/count/zenklinov/tweepy" alt="Languages Used"></a>
+        &nbsp;
+        <a href="https://github.com/zenklinov/tweepy"><img src="https://img.shields.io/github/languages/top/zenklinov/tweepy?sort=r,python" alt="Language Used"></a>
+      </p>
     </td>
   </tr>
   <tr>
