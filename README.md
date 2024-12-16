@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amanatullah Pandu Zenklinov</h1>
+<h1 align="center">Hi 👋, Welcome to my GitHub</h1>
 <h3 align="center">A passionate Data Analyst, Data Scientist, and Machine Learning Engineer from Indonesia</h3>
 
 <h3 align="left">My Repositories:</h3>
