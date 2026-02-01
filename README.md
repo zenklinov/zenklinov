@@ -47,18 +47,14 @@
 
 ## GitHub Stats
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=zenklinov&theme=flat&no-frame=true&margin-w=15&row=1&column=7)](https://github.com/zenklinov)
+![Trophies](https://github-profile-trophy.vercel.app/?username=zenklinov&theme=onedark&no-frame=true)
 
-<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zenklinov&show_icons=true&count_private=true&include_all_commits=true&theme=transparent)
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=zenklinov&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/zenklinov)
-[![Streak Stats](https://streak-stats.demolab.com?user=zenklinov)](https://github.com/zenklinov)
+![GitHub Streak](https://streak-stats.demolab.com?user=zenklinov&theme=transparent&hide_border=true)
 
-<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenklinov&layout=compact&langs_count=8&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenklinov&layout=compact&langs_count=8)](https://github.com/zenklinov)
-
----
 
 ## Resume / CV
 
