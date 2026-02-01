@@ -118,11 +118,3 @@ My full professional CV is available here:
 * **Email**: [apzenklinov@gmail.com](mailto:apzenklinov@gmail.com)
 * **Portfolio**: [zenklinov.github.io/portfolio](https://zenklinov.github.io/portfolio/)
 * **Google Scholar**: [Amanatullah Pandu Zenklinov](https://scholar.google.com/citations?user=Amanatullah)
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
