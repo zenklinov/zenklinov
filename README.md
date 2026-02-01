@@ -8,11 +8,11 @@
 
 ## Professional Summary
 
-- [cite_start]**Head of Statistics & AI Engineer** with extensive experience bridging theoretical statistics with production-grade AI/ML applications.
-- [cite_start]**Generative AI Specialist:** Expert in deploying LLM systems (RAG), utilizing tools like **LangChain, Ollama, and Llama 3** for enterprise solutions.
-- [cite_start]**Scalable Big Data:** Proven track record with **Apache Spark, Hadoop, and Google BigQuery** for handling large-scale datasets.
-- [cite_start]**Applied Research:** Published author in **community detection algorithms** and statistical risk analysis, combining rigorous math with modern code.
-- [cite_start]**End-to-End Delivery:** Comfortable managing the full lifecycle from data retrieval (SQL/ETL) to model deployment and visualization (Streamlit/Tableau).
+- **Head of Statistics & AI Engineer** with extensive experience bridging theoretical statistics with production-grade AI/ML applications.
+- **Generative AI Specialist:** Expert in deploying LLM systems (RAG), utilizing tools like **LangChain, Ollama, and Llama 3** for enterprise solutions.
+- **Scalable Big Data:** Proven track record with **Apache Spark, Hadoop, and Google BigQuery** for handling large-scale datasets.
+- **Applied Research:** Published author in **community detection algorithms** and statistical risk analysis, combining rigorous math with modern code.
+- **End-to-End Delivery:** Comfortable managing the full lifecycle from data retrieval (SQL/ETL) to model deployment and visualization (Streamlit/Tableau).
 
 ---
 
@@ -45,35 +45,18 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
----
+## GitHub Stats
 
-<div align="center">
-
-<a href="https://github.com/zenklinov">
-  <img src="https://github-profile-trophy.vercel.app/?username=zenklinov&theme=flat&no-frame=true&margin-w=15&row=1&column=7" alt="zenklinov trophies" />
-</a>
-
-<br/>
-<br/>
-
-<a href="https://github.com/zenklinov">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zenklinov&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenklinov&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
-</a>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=zenklinov&theme=flat&no-frame=true&margin-w=15&row=1&column=7)](https://github.com/zenklinov)
 
 <br/>
 
-<a href="https://github.com/zenklinov">
-  <img height="180em" src="https://streak-stats.demolab.com?user=zenklinov&theme=transparent&hide_border=true" />
-</a>
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=zenklinov&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/zenklinov)
+[![Streak Stats](https://streak-stats.demolab.com?user=zenklinov)](https://github.com/zenklinov)
 
 <br/>
 
-<a href="https://github.com/zenklinov">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zenklinov&theme=react-dark&hide_border=true&area=true" />
-</a>
-
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenklinov&layout=compact&langs_count=8)](https://github.com/zenklinov)
 
 ---
 
