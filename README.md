@@ -95,25 +95,13 @@
 ---
 
 ## GitHub Stats
-<div align="center">
 
-  <h3>🏆 GitHub Trophies</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zenklinov&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" alt="zenklinov trophies" />
-  </a>
+### GitHub Trophies
+[![zenklinov trophies](https://github-profile-trophy.vercel.app/?username=zenklinov&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-  <br/><br/>
-
-  <p>
-    <a href="https://github.com/zenklinov">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=zenklinov&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=00000000" alt="zenklinov github stats" />
-    </a>
-    <a href="https://github.com/zenklinov">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenklinov&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="zenklinov top languages" />
-    </a>
-  </p>
-
-</div>
+### Stats & Languages
+[![zenklinov github stats](https://github-readme-stats.vercel.app/api?username=zenklinov&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/zenklinov)
+[![zenklinov top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zenklinov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/zenklinov)>
 
 ---
 
